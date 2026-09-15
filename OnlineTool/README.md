@@ -7,6 +7,5 @@ A quick reference for useful online cybersecurity resources. The goal is to know
 | **Shodan** | Search engine for internet-connected devices and services. | [Shodan](https://www.shodan.io/) |
 | **VirusTotal** | Analyze suspicious files, URLs, domains, and IP addresses. | [VirusTotal](https://www.virustotal.com/) |
 | **CVE / NVD** | Research known software vulnerabilities and CVEs. | [NVD](https://nvd.nist.gov/) |
-| **GitHub** | Find security tools, source code, documentation, and research. | [GitHub](https://github.com/) |
-
-> ⚠️ Use security tools only on systems you own or have explicit permission to test.
+| **DNSDumpster** | Discover subdomains, DNS records, and related public infrastructure. | [DNSDumpster](https://dnsdumpster.com/) |
+| **crt.sh** | Search Certificate Transparency logs for SSL/TLS certificates and related domains. | [crt.sh](https://crt.sh/) |
